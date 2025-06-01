@@ -1,4 +1,4 @@
-# NBA Odds Predictor
+# NBA Game Predictor
 
 This is an NBA machine learning program built using Python and the scikit-learn library designed to predict the outcome of NBA games based on various features and historical data from 12,000+ previous games. It utilizes a Random Forest classifier and implements feature selection techniques to improve prediction accuracy.
 
