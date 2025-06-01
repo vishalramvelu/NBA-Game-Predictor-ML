@@ -14,7 +14,7 @@ Python, Scikit-learn, Beautiful Soup, Numpy, Pandas
 ## Build
 To use the NBA Machine Learning Program:
 
-1. Clone the repository: `git clone https://github.com/your-username/nba-machine-learning.git`
+1. Clone the repository: `git clone https://github.com/vishalramvelu/NBA-Game-Predictor-ML.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the program: `python main.py`
 4. Follow the prompts to interact with the program and view the prediction results.
