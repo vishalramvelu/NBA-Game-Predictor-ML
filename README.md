@@ -12,7 +12,7 @@ Python, Scikit-learn, Beautiful Soup, Numpy, Pandas, Matplotlib
 * Result verified with test-train split, cross validation, and visualization tools like confusion matrices
 
 ## Build
-To use the NBA Machine Learning Program:
+To use the NBA Game Predictor ML Program:
 
 1. Clone the repository: `git clone https://github.com/vishalramvelu/NBA-Game-Predictor-ML.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
